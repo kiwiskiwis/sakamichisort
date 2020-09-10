@@ -1,6 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .container {
@@ -42,7 +42,7 @@ body {
   margin: 0px auto;
   display: grid;
   grid-template-columns: 120px 1fr 120px;
-  grid-gap: 5px;
+  grid-gap: 15px;
   width: 420px;
 }
 
@@ -138,7 +138,7 @@ body {
 }
 
 .sorter > .right {
-  grid-column: 4 / 5;
+  grid-column: 3 / 4;
   border: 1px solid #000000;
 }
 
