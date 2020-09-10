@@ -201,773 +201,771 @@ dataSet[dataSetVersion].characterData = [
     }
   },
  {
-    name: "Watanabe Miho",
-    img: "NxAQf9B.jpg",
+    name: "Iguchi Mao",
+    img: "8JuoKVu.jpg",
     opts: {
       group: [ "hnz" ],
+      status: ["g"]
+    }
+  },
+  {
+    name: "Akimoto Manatsu",
+    img: "AaWELda.jpg",
+    opts: {
+      group: [ "ngz" ],
       status: ["c"]
     }
   },
   {
-    name: "Wriggle Nightbug",
-    img: "8DLUAPf.png",
+    name: "Ikuta Erika",
+    img: "5VxwFvl.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM"],
-      stage: ["st1"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Mystia Lorelei",
-    img: "6KyhLqE.png",
+    name: "Saito Asuka",
+    img: "uaxYoNx.jpg",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st2"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kamishirasawa Keine",
-    img: "99w0Chm.png",
+    name: "Shiraishi Mai",
+    img: "UFX4UAI.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC"],
-      stage: ["st3", "ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Inaba Tewi",
-    img: "yqNfNje.png",
+    name: "Takayama Kazumi",
+    img: "peEthv7.jpg",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Reisen Udongein Inaba",
-    img: "PrYzRcC.png",
+    name: "Nakada Kana",
+    img: "247Uu6w.jpg",
     opts: {
-      series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
-      stage: ["st5"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Yagokoro Eirin",
-    img: "ceo4DhK.png",
+    name: "Higuchi Hina",
+    img: "Gm0RTcA.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Houraisan Kaguya",
-    img: "2YDuTk3.png",
+    name: "Hoshino Minami",
+    img: "JZ2BrVr.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM", "VD"],
-      stage: ["st6"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Fujiwara no Mokou",
-    img: "3zo4VKV.png",
+    name: "Matsumura Sayuri",
+    img: "PrsFHMB.jpg",
     opts: {
-      series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Shameimaru Aya",
-    img: "8TLXMST.png",
+    {
+    name: "Wada Maaya",
+    img: "ZOnc6PE.jpg",
     opts: {
-      series: [ "book", "PoFV", "StB", "SWR", "MoF", "soku", "HM", "ISC", "HSiFS" ],
-      stage: ["st4"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Medicine Melancholy",
-    img: "IImsp7K.png",
+   {
+    name: "Itou Junna",
+    img: "ScT5uN1.jpg",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st4"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Kazami Yuuka",
-    img: "MZXJQq5.png",
+    {
+    name: "Kitano Hinako",
+    img: "a8uf807.jpg",
     opts: {
-      series: ["book", "PoFV", "StB", "HM"],
-      stage: ["st5"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Onozuka Komachi",
-    img: "aX4WIH8.png",
+    {
+    name: "Shinuchi Mai",
+    img: "yZBMWON.jpg",
     opts: {
-      series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
-      stage: ["st5"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Shiki Eiki, Yamaxanadu",
-    img: "nPBvatH.png",
+    {
+    name: "Suzuki Ayane",
+    img: "uHnrJtK.jpg",
     opts: {
-      series: ["book", "PoFV", "StB", "HM", "VD"],
-      stage: ["st6"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Aki Shizuha",
-    img: "3pDRgvR.png",
+   {
+    name: "Terada Ranze",
+    img: "IfgZQr2.jpg",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Aki Minoriko",
-    img: "bV0DaN7.png",
+   {
+    name: "Hori Miona",
+    img: "ywQ8yy3.jpg",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st1"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Kagiyama Hina",
-    img: "J11NjNj.png",
+   {
+    name: "Yamazaki Rena",
+    img: "HBuz2a6.jpg",
     opts: {
-      series: ["MoF", "DS", "HM"],
-      stage: ["st2"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kawashiro Nitori",
-    img: "4Ufced2.png",
+    name: "Watanabe Miria",
+    img: "yYQqN56.jpg",
     opts: {
-      series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st3"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Inubashiri Momiji",
-    img: "qGMjnYk.png",
+    name: "Itou Riria",
+    img: "q81dGPU.jpg",
     opts: {
-      series: ["MoF", "DS", "ISC"],
-      stage: ["st4"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kochiya Sanae",
-    img: "ATTRSWU.png",
+    name: "Iwamoto Renka",
+    img: "j2VHreS.jpg",
     opts: {
-      series: ["MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "ISC", "LoLK"],
-      stage: ["st5", "ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Yasaka Kanako",
-    img: "nQ78Lz7.png",
+   {
+    name: "Umezawa Minami",
+    img: "dXMQ0WI.jpg",
     opts: {
-      series: ["MoF", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6", "ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Moriya Suwako",
-    img: "yJaD5ZV.png",
+    name: "Ozono Momoko",
+    img: "lO0ngoo.jpg",
     opts: {
-      series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Nagae Iku",
-    img: "xgAlECj.png",
+    name: "Sakaguchi Tamami",
+    img: "3sqCDlJ.jpg",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "VD"],
-      stage: ["st5"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Hinanawi Tenshi",
-    img: "tZLYivt.png",
+    name: "Sato Kaede",
+    img: "Y15FSyC.jpg",
     opts: {
-      series: ["SWR", "soku", "DS", "HM", "ISC", "AoCF", "VD"],
-      stage: ["st6"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Kisume",
-    img: "VgJgaEf.png",
+ {
+    name: "Nakamura Reno",
+    img: "y2cxKLU.jpg",
     opts: {
-      series: ["SA", "DS"],
-      stage: ["st1"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Kurodani Yamame",
-    img: "sqgJ2St.png",
+ {
+    name: "Mukai Hazuki",
+    img: "jMrVNum.jpg",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st1"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Mizuhashi Parsee",
-    img: "lkoAJod.png",
+ {
+    name: "Yamashita Mizuki",
+    img: "FWbYAud.jpg",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st2"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Hoshiguma Yuugi",
-    img: "tDO653L.png",
+ {
+    name: "Yoshida Ayano Christie",
+    img: "kOatEA1.jpg",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st3"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Komeiji Satori",
-    img: "dup7Nt6.png",
+    name: "Yoda Yuki",
+    img: "O2j1FuV.jpg",
     opts: {
-      series: ["SA", "DS", "HM", "VD"],
-      stage: ["st4"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kaenbyou Rin (Orin)",
-    img: "uQjbw1W.png",
+    name: "Endo Sakura",
+    img: "1NElTqS.jpg",
     opts: {
-      series: ["SA", "DS", "HM"],
-      stage: ["st4", "st5", "st6"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Reiuji Utsuho (Okuu)",
-    img: "DfdaXPW.png",
+    name: "Kaki Haruka",
+    img: "PkOQzSf.jpg",
     opts: {
-      series: ["SA", "soku", "DS", "HM", "VD"],
-      stage: ["st6"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Komeiji Koishi",
-    img: "wVCcens.png",
+ {
+    name: "Kakehashi Sayaka",
+    img: "g92Ted3.jpg",
     opts: {
-      series: ["SA", "DS", "HM", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Nazrin",
-    img: "EpHQbiY.png",
+    name: "Kanagawa Saya",
+    img: "j2KHXqS.jpg",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st1", "st5"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Tatara Kogasa",
-    img: "kJbv4dc.png",
+    name: "Kitagawa Yuri",
+    img: "ngD3mem.jpg",
     opts: {
-      series: ["UFO", "TD", "DS", "HM"],
-      stage: ["st2", "ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kumoi Ichirin",
-    img: "Fyn5yVx.png",
+    name: "Shibata Yuna",
+    img: "xKJyJ8L.jpg",
     opts: {
-      series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
-      stage: ["st3"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Murasa Minamitsu",
-    img: "39KYpvW.png",
+    name: "Seimiya Rei",
+    img: "o4hXS4f.jpg",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st4"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Toramaru Shou",
-    img: "5yihisu.png",
+    name: "Tamura Mayu",
+    img: "QktMEnb.jpg",
     opts: {
-      series: ["UFO", "DS", "HM"],
-      stage: ["st5"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Hijiri Byakuren",
-    img: "2ppPxny.png",
+    name: "Tsutsui Ayame",
+    img: "kIC7oHz.jpg",
     opts: {
-      series: ["UFO", "DS", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Houjuu Nue",
-    img: "zL4S8Mj.png",
+    name: "Hayakawa Seira",
+    img: "tzjsppV.jpg",
     opts: {
-      series: ["UFO", "DS", "TD", "HM", "VD"],
-      stage: ["st4", "st6", "ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Himekaidou Hatate",
-    img: "LgvoTaJ.png",
+    name: "Yakubo Mio",
+    img: "veub5to.jpg",
     opts: {
-      series: ["DS", "HM", "ISC"],
-      stage: ["ex"]
+      group: [ "ngz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Sunny Milk",
-    img: "VbqXiB6.png",
+ {
+    name: "Ishimori Nijika",
+    img: "sIcT6iR.jpg",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Luna Child",
-    img: "OBqgP48.png",
+    name: "Uemura Rina",
+    img: "Rx86j7C.jpg",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Star Sapphire",
-    img: "sNw61ap.png",
+   {
+    name: "Ozeki Rika",
+    img: "ih2DBSx.jpg",
     opts: {
-      series: ["book", "GFW", "HM"],
-      stage: ["st1", "st2", "st3"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Kasodani Kyouko",
-    img: "sLiqEBA.png",
+   {
+    name: "Koike Minami",
+    img: "BepxDBS.jpg",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st2"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Miyako Yoshika",
-    img: "6jq6eh6.png",
+   {
+    name: "Kobayashi Yui",
+    img: "kgjH9nB.jpg",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st3", "st4"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kaku Seiga",
-    img: "090hLPL.png",
+    name: "Saito Fuyuka",
+    img: "3vuAwDS.jpg",
     opts: {
-      series: ["TD", "HM", "ISC"],
-      stage: ["st4"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Soga no Tojiko",
-    img: "y0UXwFO.png",
+    name: "Sato Shiori",
+    img: "zRvdBEt.jpg",
     opts: {
-      series: ["TD", "HM"],
-      stage: ["st5"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Mononobe no Futo",
-    img: "WTZ97LE.png",
+    name: "Sugai Yuuka",
+    img: "fJ67ApO.jpg",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF"],
-      stage: ["st5"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Toyosatomimi no Miko",
-    img: "3Xiqd22.png",
+    name: "Habu Mizuho",
+    img: "QFWvaGR.jpg",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Futatsuiwa Mamizou",
-    img: "gMpWdmA.png",
+   {
+    name: "Harada Aoi",
+    img: "1Pjvrlw.jpg",
     opts: {
-      series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["ex"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Hata no Kokoro",
-    img: "fxCGmUk.png",
+ {
+    name: "Moriya Akane",
+    img: "gT4Drrr.jpg",
     opts: {
-      series: ["book", "HM", "ULiL", "AoCF"],
-      stage: ["st6"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Wakasagihime",
-    img: "brWCLVx.png",
+    name: "Watanabe Rika",
+    img: "6n38UnU.jpg",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st1"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Sekibanki",
-    img: "VAMLiJD.png",
+    name: "Watanabe Risa",
+    img: "RlQCtnb.jpg",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st2"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Imaizumi Kagerou",
-    img: "qwwL0bB.png",
+    name: "Inoue Rina",
+    img: "uyerS2n.jpg",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st3"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Tsukumo Benben",
-    img: "vWNeMaH.png",
+   {
+    name: "Seki Yumiko",
+    img: "fREBo9Z.jpg",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Tsukumo Yatsuhashi",
-    img: "EJFQHQN.png",
+   {
+    name: "Takemoto Yui",
+    img: "LUhoTVt.jpg",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st4", "ex"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kijin Seija",
-    img: "16RUacj.png",
+    name: "Tamura Hono",
+    img: "EdA8Ibx.jpg",
     opts: {
-      series: ["DDC", "ISC"],
-      stage: ["st5", "st6"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Sukuna Shinmyoumaru",
-    img: "Zl2tN7W.png",
+    name: "Fujiyoshi Karin",
+    img: "VFkhq6j.jpg",
     opts: {
-      series: ["DDC", "ISC", "ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Horikawa Raiko",
-    img: "SLLEccR.png",
+    name: "Matsuda Rina",
+    img: "iz2QZGf.jpg",
     opts: {
-      series: ["DDC", "ISC", "AoCF", "VD"],
-      stage: ["ex"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Usami Sumireko",
-    img: "mc7ICW6.png",
+    name: "Matsudaira Riko",
+    img: "s0QCXOW.jpg",
     opts: {
-      series: ["ULiL", "AoCF", "VD"],
-      stage: ["st6"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Seiran",
-    img: "0ra00WG.png",
+    name: "Morita Hikaru",
+    img: "xBTQoN2.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st1"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Ringo",
-    img: "xQOsFlZ.png",
+ {
+    name: "Yamazaki Ten",
+    img: "ofPHDOQ.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st2"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Doremy Sweet",
-    img: "rGS7dyn.png",
+    name: "Endo Hikari",
+    img: "NOyWfnL.jpg",
     opts: {
-      series: ["LoLK", "AoCF", "VD"],
-      stage: ["st3", "ex"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kishin Sagume",
-    img: "HLT338X.png",
+    name: "Oozono Rei",
+    img: "FBw1d7t.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st4"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Clownpiece",
-    img: "9Jje7ZQ.jpg",
+    name: "Oonuma Akiho",
+    img: "gnMFer5.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st5"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Junko",
-    img: "NsfLZjY.jpg",
+    name: "Kosaka Marino",
+    img: "36vK9uZ.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["st6", "ex"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Hecatia Lapislazuli",
-    img: "EH3Ulol.png",
+{
+    name: "Masumoto Kira",
+    img: "FCn6DIl.jpg",
     opts: {
-      series: ["LoLK", "VD"],
-      stage: ["ex"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Eternity Larva",
-    img: "ql5KxJH.png",
+ {
+    name: "Moriya Rena",
+    img: "0RE9WS3.jpg",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st1"]
+      group: [ "kyk" ],
+      status: ["c"]
     }
   },
   {
-    name: "Sakata Nemuno",
-    img: "gYFhJ3Y.png",
+    name: "Imaizumi Yui",
+    img: "8jogQob.jpg",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st2"]
+      group: ["kyk"],
+      status: ["g"]
     }
   },
   {
-    name: "Komano Aunn",
-    img: "wWUStkF.png",
+    name: "Shida Manaka",
+    img: "Fb3uPlf.jpg",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st3"]
+      group: ["kyk"],
+      status: ["g"]
     }
   },
-  {
-    name: "Yatadera Narumi",
-    img: "wrPVhAo.png",
+ {
+    name: "Yonetani Nanami",
+    img: "GFLCbUl.jpg",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st4"]
+      group: ["kyk"],
+      status: ["g"]
     }
   },
   {
-    name: "Nishida Satono",
-    img: "8w9gAy2.png",
+    name: "Oda Nana",
+    img: "NWPo3PP.jpg",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
+      group: ["kyk"],
+      status: ["g"]
     }
   },
-  {
-    name: "Teireida Mai",
-    img: "DesAqAC.png",
+   {
+    name: "Hirate Yurina",
+    img: "xkZgBZ4.jpg",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st5"]
+      group: ["kyk"],
+      status: ["g"]
     }
   },
-  {
-    name: "Matara Okina",
-    img: "icWvMyo.png",
+   {
+    name: "Suzumoto Miyu",
+    img: "28VeKGI.jpg",
     opts: {
-      series: ["HSiFS", "VD"],
-      stage: ["st6", "ex"]
+      group: ["kyk"],
+      status: ["g"]
     }
   },
-  {
-    name: "Yorigami Shion",
-    img: "LenxXR4.png",
+   {
+    name: "Nagasawa Nanako",
+    img: "GR894Kz.jpg",
     opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
+      group: ["kyk"],
+      status: ["g"]
     }
   },
   {
-    name: "Yorigami Joon",
-    img: "V9OznT1.png",
+    name: "Hanataka Seira",
+    img: "MqdqLXL.jpg",
     opts: {
-      series: ["AoCF"],
-      stage: ["st6"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Ebisu Eika",
-    img: "Ke3316E.png",
+   {
+    name: "Nagashima Seira",
+    img: "GNHtnek.jpg",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st1"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Ushizaki Urumi",
-    img: "ru2vIIW.png",
+   {
+    name: "Fukugawa Mai",
+    img: "cF5PmLO.jpg",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st2"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Niwatari Kutaka",
-    img: "QTQt0ZL.png",
+   {
+    name: "Hashimoto Nanami",
+    img: "PSnCObT.jpg",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st3"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
   {
-    name: "Kicchou Yachie",
-    img: "CzcIMxF.png",
+    name: "Ito Marika",
+    img: "TpJiGX1.jpg",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st4"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Joutouguu Mayumi",
-    img: "GxeziYO.png",
+ {
+    name: "Nakamoto Himeka",
+    img: "8ETfwQB.jpg",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st5"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Haniyasushin Keiki",
-    img: "Z4jclTi.png",
+   {
+    name: "Kawamura Mahiro",
+    img: "PilwWa6.jpg",
     opts: {
-      series: ["WBaWC"],
-      stage: ["st6"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Kurokoma Saki",
-    img: "H2v2GPy.png",
+   {
+    name: "Ikoma Rina",
+    img: "gfeKta0.jpg",
     opts: {
-      series: ["WBaWC"],
-      stage: ["ex"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Hieda no Akyuu",
-    img: "ogONuLZ.png",
+   {
+    name: "Saito Chiharu",
+    img: "SchxdOX.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  { 
-    name: "Tokiko",
-    img: "Y4maOc8.png", 
-    opts: {
-      series: ["book"],
-      stage: [],
-      nameless: true
-    } 
-  },
-  {
-    name: "Reisen (Manga)",
-    img: "cWjCo2j.png",
+   {
+    name: "Wakatsuki Yumi",
+    img: "G8u69nU.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Watatsuki no Toyohime",
-    img: "uEBxsEX.png",
+   {
+    name: "Noujo Ami",
+    img: "R7miyje.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Watatsuki no Yorihime",
-    img: "Txu2P7S.png",
+   {
+    name: "Kawago Hina",
+    img: "A7JObyy.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Maribel Hearn",
-    img: "XUI9vPo.png",
+   {
+    name: "Nishino Nanase",
+    img: "tIDYvGI.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
   {
-    name: "Usami Renko",
-    img: "1P5EXRt.png",
+    name: "Eto Misa",
+    img: "fb3zPT0.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Ibaraki Kasen",
-    img: "dQHnPPe.png",
+   {
+    name: "Saito Yuri",
+    img: "pJrNobA.jpg",
     opts: {
-      series: ["book", "ULiL", "AoCF"],
-      stage: ["st5"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Motoori Kosuzu",
-    img: "jEsJJo8.png",
+   {
+    name: "Sakurai Reika",
+    img: "KnCRgdZ.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
-  {
-    name: "Okunoda Miyoi",
-    img: "JZnExhN.png",
+   {
+    name: "Inoue Sayuri",
+    img: "4dZ7ouu.jpg",
     opts: {
-      series: ["book"],
-      stage: []
+      group: ["ngz"],
+      status: ["g"]
     }
   },
   {
-    name: "Hakurei Reimu (PC-98)",
-    img: "IZsGAMS.png",
+    name: "Sagara Iori",
+    img: "ISR33K5.jpg",
     opts: {
-      series: ["HRtP", "SoEW", "PoDD", "LLS", "MS"],
-      stage: ["st4"],
-      pc98: true
+      group: ["ngz"],
+      status: ["g"]
     }
   },
   {
-    name: "Shingyoku (Female)",
-    img: "KuPiR2k.png",
+    name: "Ito Karin",
+    img: "hKkw0Kl.jpg",
     opts: {
-      series: ["HRtP"],
-      stage: ["st1"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
   {
-    name: "Mima",
-    img: "odH03t2.png",
+    name: "Sasaki Kotoko",
+    img: "snWRdlw.jpg",
     opts: {
-      series: ["HRtP", "SoEW", "PoDD", "MS"],
-      stage: ["st3", "st5", "st6"]
+      group: ["ngz"],
+      status: ["g"]
     }
   },
   {
