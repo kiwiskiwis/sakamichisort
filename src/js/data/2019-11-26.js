@@ -1,255 +1,211 @@
-dataSetVersion = "2019-11-26"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2020-09-10"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Series Entry",
-    key: "series",
-    tooltip: "Check this to restrict to certain series.",
+    name: "Filter by Group",
+    key: "group",
+    tooltip: "Check this to restrict to certain groups.",
     checked: false,
     sub: [
-      { name: "Books and CDs", key: "book" },
-      { name: "The Highly Responsive to Prayers", tooltip: "01 - Reiiden", key: "HRtP" },
-      { name: "The Story of Eastern Wonderland", tooltip: "02 - Fuumaroku", key: "SoEW" },
-      { name: "Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
-      { name: "Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
-      { name: "Mystic Square", tooltip: "05 - Kaikidan", key: "MS" },
-      { name: "Embodiment of Scarlet Devil", tooltip: "06 - Koumakan", key: "EoSD" },
-      { name: "Perfect Cherry Blossom", tooltip: "07 - Youyoumu", key: "PCB" },
-      { name: "Immaterial and Missing Power", tooltip: "07.5 - Suimusou", key: "IaMP" },
-      { name: "Imperishable Night", tooltip: "08 - Eiyashou", key: "IN" },
-      { name: "Phantasmagoria of Flower View", tooltip: "09 - Kaeidzuka", key: "PoFV" },
-      { name: "Shoot the Bullet", tooltip: "09.5 - Bunkachou", key: "StB" },
-      { name: "Mountain of Faith", tooltip: "10 - Fuujinroku", key: "MoF" },
-      { name: "Scarlet Weather Rhapsody", tooltip: "10.5 - Hisouten", key: "SWR" },
-      { name: "Subterranean Animism", tooltip: "11 - Chireiden", key: "SA" },
-      { name: "Undefined Fantastic Object", tooltip: "12 - Seirensen", key: "UFO" },
-      { name: "Touhou Hisoutensoku", tooltip: "12.3 - Hisoutensoku", key: "soku" },
-      { name: "Double Spoiler", tooltip: "12.5 - Bunkachou", key: "DS" },
-      { name: "Great Fairy Wars", tooltip: "12.8 - Daisensou", key: "GFW" },
-      { name: "Ten Desires", tooltip: "13 - Shinreibyou", key: "TD" },
-      { name: "Hopeless Masquerade", tooltip: "13.5 - Shinkirou", key: "HM" },
-      { name: "Double Dealing Character", tooltip: "14 - Kishinjou", key: "DDC" },
-      { name: "Impossible Spell Card", tooltip: "14.3 - Amanojaku", key: "ISC" },
-      { name: "Urban Legend in Limbo", tooltip: "14.5 - Shinpiroku", key: "ULiL" },
-      { name: "Legacy of Lunatic Kingdom", tooltip: "15 - Kanjuden", key: "LoLK" },
-      { name: "Antinomy of Common Flowers", tooltip: "15.5 - Hyouibana", key: "AoCF" },
-      { name: "Hidden Star in Four Seasons", tooltip: "16 - Tenkuushou", key: "HSiFS" },
-      { name: "Violet Detector", tooltip: "16.5 - Hifuu Nightmare Diary", key: "VD" },
-      { name: "Wily Beast and Weakest Creature", tooltip: "17 - Kikeijuu", key: "WBaWC" }
+      { name: "Nogizaka46", key: "ngz" },
+      { name: "Hinatazaka46", key: "hnz" },
+      { name: "Keyakizaka46", key: "kyk" },
     ]
   },
   {
-    name: "Filter by Stage Enemy Appearances",
-    key: "stage",
-    tooltip: "Check this to restrict to characters that appear in certain stages as enemies.",
+    name: "Filter by Status",
+    key: "status",
+    tooltip: "Check this to restrict graduated/still there.",
     checked: false,
-    sub: [ { name: "Stage 1", key: "st1" }, { name: "Stage 2", key: "st2" }, { name: "Stage 3", key: "st3" }, { name: "Stage 4", key: "st4" }, { name: "Stage 5/Penultimate", tooltip: "Stage 4 in 5-stage games, and Stage 8 in 9-stage games.", key: "st5" }, { name: "Stage 6/Final", key: "st6" }, { name: "Stage EX/Phantasm", key: "ex" }
+    sub: [ { name: "Graduated", key: "g" }, { name: "Current", key: "c" }
     ]
-  },
-  {
-    name: "Remove PC-98 Duplicates",
-    key: "pc98",
-    tooltip: "Check this to remove PC-98 characters with a Windows counterpart."
-  },
-  {
-    name: "Remove Non-Girls",
-    key: "notgirl",
-    tooltip: "Check this to remove all non-female characters."
-  },
-  {
-    name: "Remove Nameless Characters",
-    key: "nameless",
-    tooltip: "Check this to remove all characters without canonical names.",
-    checked: false
   }
 ];
 
 dataSet[dataSetVersion].characterData = [
-  {
-    name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+{
+    name: "Ushio Sarina",
+    img: "NxAQf9B.jpg",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
-      stage: ["st4"]
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+ {
+    name: "Kageyama Yuuka",
+    img: "yz6nZTa.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+ {
+    name: "Kato Shiho",
+    img: "cVN9lgY.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    name: "Saito Kyoko",
+    img: "24PynnJ.jpg",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
-      stage: ["st4", "ex"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Rumia",
-    img: "0YT7QlS.png",
+    name: "Sasaki Kumi",
+    img: "RJZiI9C.jpg",
     opts: {
-      series: ["book", "EoSD", "StB", "HM"],
-      stage: ["st1"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Daiyousei",
-    img: "NWlZud3.png",
+    name: "Sasaki Mirei",
+    img: "7Elvl84.jpg",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st2", "ex"],
-      nameless: true
-    },
-  },
-  {
-    name: "Cirno",
-    img: "qdveFSy.png",
-    opts: {
-      series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
-      stage: ["st2"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Hong Meiling",
-    img: "ptGp0x4.png",
+    name: "Takase Mana",
+    img: "kUSSZQI.jpg",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "soku"],
-      stage: ["st3"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Koakuma",
-    img: "vBKdDm4.png",
+    name: "Takamoto Ayaka",
+    img: "ShthFGz.jpg",
     opts: {
-      series: ["book", "EoSD"],
-      stage: ["st4"],
-      nameless: true
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+    {
+    name: "Higashimura Mei",
+    img: "khOPmIM.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+    {
+    name: "Kanemura Miku",
+    img: "PQXNAqO.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+    {
+    name: "Kawata Hina",
+    img: "dFRxTKB.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+    {
+    name: "Kosaka Nao",
+    img: "f6zxSde.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+    {
+    name: "Tomita Suzuka",
+    img: "nS3BYp9.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+    {
+    name: "Nibu Akari",
+    img: "0oX3xml.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+     {
+    name: "Hamagishi Hiyori",
+    img: "qvf58sX.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+     {
+    name: "Matsuda Konoka",
+    img: "8giTYDz.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+     {
+    name: "Miyata Manamo",
+    img: "XWldn4n.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
+    }
+  },
+     {
+    name: "Watanabe Miho",
+    img: "CSqT0zt.jpg",
+    opts: {
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Patchouli Knowledge",
-    img: "A7ZnuHo.png",
+    name: "Kamimura Hinano",
+    img: "TwPJz20.jpg",
     opts: {
-      series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st4", "ex"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Izayoi Sakuya",
-    img: "sgZPf11.png",
+    name: "Takahashi Mikuni",
+    img: "4GZuQm1.jpg",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
-      stage: ["st5", "st6"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Remilia Scarlet",
-    img: "8UX7hKE.png",
+    name: "Morimoto Marie",
+    img: "9xQOHmo.jpg",
     opts: {
-      series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
-    name: "Flandre Scarlet",
-    img: "OhaDcnc.png",
+    name: "Yamaguchi Haruyo",
+    img: "qiDfaXH.jpg",
     opts: {
-      series: ["book", "EoSD", "StB", "VD"],
-      stage: ["ex"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
-  {
-    name: "Letty Whiterock",
-    img: "MgzqjFK.png",
+ {
+    name: "Watanabe Miho",
+    img: "NxAQf9B.jpg",
     opts: {
-      series: ["book", "PCB", "StB", "HM"],
-      stage: ["st1"]
-    }
-  },
-  {
-    name: "Chen",
-    img: "ohmetZh.png",
-    opts: {
-      series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
-      stage: ["st2", "ex"]
-    }
-  },
-  {
-    name: "Alice Margatroid",
-    img: "aDIf0pN.png",
-    opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
-      stage: ["st3"]
-    }
-  },
-  {
-    name: "Lily White",
-    img: "2Pr8b2N.png",
-    opts: {
-      series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
-      stage: ["st4", "ex"]
-    }
-  },
-  {
-    name: "Lunasa Prismriver",
-    img: "htOMdDQ.png",
-    opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
-    }
-  },
-  {
-    name: "Merlin Prismriver",
-    img: "PrRPujP.png",
-    opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
-    }
-  },
-  {
-    name: "Lyrica Prismriver",
-    img: "ze79bFC.png",
-    opts: {
-      series: ["book", "PCB", "PoFV", "HM", "AoCF"],
-      stage: ["st4"]
-    }
-  },
-  {
-    name: "Konpaku Youmu",
-    img: "WMjyRLJ.png",
-    opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC", "WBaWC" ],
-      stage: ["st5", "st6"]
-    }
-  },
-  {
-    name: "Saigyouji Yuyuko",
-    img: "VT9mTGb.png",
-    opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC", "VD" ],
-      stage: ["st1", "st6"]
-    }
-  },
-  {
-    name: "Yakumo Ran",
-    img: "rshnJPV.png",
-    opts: {
-      series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "VD"],
-      stage: ["ex"]
-    }
-  },
-  {
-    name: "Yakumo Yukari",
-    img: "qsceD4I.png",
-    opts: {
-      series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF", "VD" ],
-      stage: ["ex"]
-    }
-  },
-  {
-    name: "Ibuki Suika",
-    img: "pLdMjQ3.png",
-    opts: {
-      series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
-      stage: ["st6"]
+      group: [ "hnz" ],
+      status: ["c"]
     }
   },
   {
