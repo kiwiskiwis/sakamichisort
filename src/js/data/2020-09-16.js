@@ -18,7 +18,12 @@ dataSet[dataSetVersion].options = [
     key: "status",
     tooltip: "Check this to restrict different statuses.",
     checked: false,
-    sub: [ { name: "Graduated", key: "g" }, { name: "Current", key: "c" },  { name: "First Generation", key: "on" }, { name: "Second Generation", key: "tw" }, { name: "Third Generation", key: "th" }, { name: "Fourth Generation", key: "fo" }
+    sub: [ { name: "Graduated", key: "g" }, 
+           { name: "Current", key: "c" },  
+           { name: "First Generation", key: "on" }, 
+           { name: "Second Generation", key: "tw" }, 
+           { name: "Third Generation", key: "th" }, 
+           { name: "Fourth Generation", key: "fo" },
     ]
   }
 ];
