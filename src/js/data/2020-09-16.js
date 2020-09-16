@@ -24,7 +24,7 @@ dataSet[dataSetVersion].options = [
   },
   {
     name: "Filter by Generation",
-    key: "gene",
+    key: "gen",
     tooltip: "Check this to restrict from generations.",
     checked: false,
     sub: [ { name: "First Generation", key: "on" }, 
@@ -239,9 +239,19 @@ dataSet[dataSetVersion].characterData = [
     img: "8JuoKVu.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["g"]
+      status: ["g"],
+      gen: ["on"]
     }
   },
+  {
+    name: "Kakizaki Memi",
+    img: "Vvldo4t.jpg",
+    opts: {
+      group: ["hnz"],
+      status: ["g"],
+      gen: ["on"]
+    }
+  },  
   {
     name: "Akimoto Manatsu",
     img: "AaWELda.jpg",
