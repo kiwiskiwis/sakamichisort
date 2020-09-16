@@ -86,7 +86,7 @@ dataSet[dataSetVersion].characterData = [
       group: [ "hnz" ],
       status: ["c"],
       gen: ["on"],
-      unith: ["dsd", "lmck", "kznz"]
+      unith: ["dsd", "lmct", "kznz"]
     }
   },
   {
@@ -96,7 +96,7 @@ dataSet[dataSetVersion].characterData = [
       group: [ "hnz" ],
       status: ["c"],
       gen: ["on"],
-      unith: ["lmck", "fs", "dsd"]
+      unith: ["lmct", "fs", "dsd"]
     }
   },
   {
@@ -125,7 +125,7 @@ dataSet[dataSetVersion].characterData = [
       group: [ "hnz" ],
       status: ["c"],
       gen: ["on"],
-      unith: ["lmck", "fs"]
+      unith: ["lmct", "fs"]
     }
   },
     {
