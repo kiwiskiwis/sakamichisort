@@ -20,11 +20,18 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [ { name: "Graduated", key: "g" }, 
            { name: "Current", key: "c" },  
-           { name: "First Generation", key: "on" }, 
+    ]
+  },
+  {
+    name: "Filter by Generation",
+    key: "gene",
+    tooltip: "Check this to restrict from generations.",
+    checked: false,
+    sub: [ { name: "First Generation", key: "on" }, 
            { name: "Second Generation", key: "tw" }, 
            { name: "Third Generation", key: "th" }, 
            { name: "Fourth Generation", key: "fo" },
-    ]
+          ]
   }
 ];
 
@@ -34,7 +41,8 @@ dataSet[dataSetVersion].characterData = [
     img: "NxAQf9B.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
  {
@@ -42,7 +50,8 @@ dataSet[dataSetVersion].characterData = [
     img: "yz6nZTa.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
  {
@@ -50,7 +59,8 @@ dataSet[dataSetVersion].characterData = [
     img: "cVN9lgY.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
   {
@@ -58,7 +68,8 @@ dataSet[dataSetVersion].characterData = [
     img: "24PynnJ.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
   {
@@ -66,7 +77,8 @@ dataSet[dataSetVersion].characterData = [
     img: "RJZiI9C.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
   {
@@ -74,7 +86,8 @@ dataSet[dataSetVersion].characterData = [
     img: "7Elvl84.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
   {
@@ -82,7 +95,8 @@ dataSet[dataSetVersion].characterData = [
     img: "kUSSZQI.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
   {
@@ -90,7 +104,8 @@ dataSet[dataSetVersion].characterData = [
     img: "ShthFGz.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
     {
@@ -98,7 +113,8 @@ dataSet[dataSetVersion].characterData = [
     img: "khOPmIM.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "on"]
+      status: ["c"],
+      gen: ["on"]
     }
   },
     {
@@ -106,7 +122,8 @@ dataSet[dataSetVersion].characterData = [
     img: "PQXNAqO.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
     {
@@ -114,7 +131,8 @@ dataSet[dataSetVersion].characterData = [
     img: "dFRxTKB.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
     {
@@ -122,7 +140,8 @@ dataSet[dataSetVersion].characterData = [
     img: "f6zxSde.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
     {
@@ -130,7 +149,8 @@ dataSet[dataSetVersion].characterData = [
     img: "nS3BYp9.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
     {
@@ -138,7 +158,8 @@ dataSet[dataSetVersion].characterData = [
     img: "0oX3xml.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
      {
@@ -146,7 +167,8 @@ dataSet[dataSetVersion].characterData = [
     img: "qvf58sX.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
      {
@@ -154,7 +176,8 @@ dataSet[dataSetVersion].characterData = [
     img: "8giTYDz.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
      {
@@ -162,7 +185,8 @@ dataSet[dataSetVersion].characterData = [
     img: "XWldn4n.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
      {
@@ -170,7 +194,8 @@ dataSet[dataSetVersion].characterData = [
     img: "CSqT0zt.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "tw"]
+      status: ["c"],
+      gen: ["tw"]
     }
   },
   {
@@ -178,7 +203,8 @@ dataSet[dataSetVersion].characterData = [
     img: "TwPJz20.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "th"]
+      status: ["c"],
+      gen: ["th"]
     }
   },
   {
@@ -186,7 +212,8 @@ dataSet[dataSetVersion].characterData = [
     img: "4GZuQm1.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "th"]
+      status: ["c"],
+      gen: ["th"]
     }
   },
   {
@@ -194,7 +221,8 @@ dataSet[dataSetVersion].characterData = [
     img: "9xQOHmo.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "th"]
+      status: ["c"],
+      gen: ["th"]
     }
   },
   {
@@ -202,7 +230,8 @@ dataSet[dataSetVersion].characterData = [
     img: "qiDfaXH.jpg",
     opts: {
       group: [ "hnz" ],
-      status: ["c", "th"]
+      status: ["c"],
+      gen: ["th"]
     }
   },
  {
