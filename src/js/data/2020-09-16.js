@@ -10,7 +10,7 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Nogizaka46", key: "ngz" },
       { name: "Hinatazaka46", key: "hnz" },
-      { name: "Keyakizaka46", key: "kyk" },
+      { name: "Sakurazaka46", key: "kyk" },
     ]
   },
   {
@@ -645,7 +645,7 @@ dataSet[dataSetVersion].characterData = [
     img: "sIcT6iR.jpg",
     opts: {
       group: [ "kyk" ],
-      status: ["c"],
+      status: ["g"],
       gen: ["on"]
     }
   },
@@ -699,7 +699,7 @@ dataSet[dataSetVersion].characterData = [
     img: "zRvdBEt.jpg",
     opts: {
       group: [ "kyk" ],
-      status: ["c"],
+      status: ["g"],
       gen: ["on"]
     }
   },
